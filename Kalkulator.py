@@ -1,4 +1,6 @@
 a = input("angka1")
 b = input("angka2")
-penjumlahan = (a+b)
+penjumlahan = a+b
 print(penjumlahan)
+
+pengkalian=a*b
