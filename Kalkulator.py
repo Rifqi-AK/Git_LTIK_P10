@@ -4,3 +4,7 @@ penjumlahan = a+b
 print(penjumlahan)
 
 pengkalian=a*b
+print(pengkalian)
+
+pembagian= a/b
+print(pembagian)
