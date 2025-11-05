@@ -1,4 +1,4 @@
-a = 2
-b = 3
-c = a+b
-print(c)
+a = input("angka1")
+b = input("angka2")
+penjumlahan = (a+b)
+print(penjumlahan)
